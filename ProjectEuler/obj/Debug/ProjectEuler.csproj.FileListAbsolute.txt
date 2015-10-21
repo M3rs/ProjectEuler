@@ -1,0 +1,6 @@
+C:\Users\Andy\Documents\src\ProjectEuler\ProjectEuler\bin\Debug\ProjectEuler.exe.config
+C:\Users\Andy\Documents\src\ProjectEuler\ProjectEuler\bin\Debug\ProjectEuler.exe
+C:\Users\Andy\Documents\src\ProjectEuler\ProjectEuler\bin\Debug\ProjectEuler.pdb
+C:\Users\Andy\Documents\src\ProjectEuler\ProjectEuler\obj\Debug\ProjectEuler.csprojResolveAssemblyReference.cache
+C:\Users\Andy\Documents\src\ProjectEuler\ProjectEuler\obj\Debug\ProjectEuler.exe
+C:\Users\Andy\Documents\src\ProjectEuler\ProjectEuler\obj\Debug\ProjectEuler.pdb
